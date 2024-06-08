@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="welcome_to_parkzapp">Welcome to ParkZapp!</string>
+    <string name="login_to_your_account">Login to your account</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="help">Help</string>
+    <string name="about">About</string>
+    <string name="expiry_date">Expiry Date</string>
+    <string name="backup_now">BackUp Now</string>
+    <string name="logout">Logout</string>
+    <string name="john_doe">John Doe</string>
+    <string name="administrator">Administrator</string>
+</resources>
